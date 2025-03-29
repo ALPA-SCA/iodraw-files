@@ -23,7 +23,10 @@
           <mxGeometry x="336" y="559" width="176" height="71" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1014" value="数据校验与异常检测模块&lt;div&gt;与历史记录对比，判断误差是否超过阈值&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="331" y="710" width="181" height="60" as="geometry" />
+          <mxGeometry x="305.5" y="680" width="239" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Is9HT5RNKo0W-x6g_QNv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HZyqP8lNtJwYMgKbey4X-1015" target="HZyqP8lNtJwYMgKbey4X-1014">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1015" value="休眠或关闭连接" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="344" y="817" width="153" height="48" as="geometry" />
