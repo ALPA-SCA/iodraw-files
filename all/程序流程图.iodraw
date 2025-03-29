@@ -20,13 +20,13 @@
           <mxGeometry x="290" y="463" width="270" height="56" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1013" value="分数归一化处理模块&lt;div&gt;①判断任务类型&lt;/div&gt;&lt;div&gt;②采用公式归一化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="354" y="559" width="176" height="71" as="geometry" />
+          <mxGeometry x="336" y="559" width="176" height="71" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1014" value="发送完毕？" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="338" y="645" width="181" height="60" as="geometry" />
+          <mxGeometry x="331" y="710" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1015" value="休眠或关闭连接" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="351" y="752" width="153" height="48" as="geometry" />
+          <mxGeometry x="344" y="817" width="153" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1026" value="" style="endArrow=classic;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontColor=none;align=center;exitX=0.527;exitY=1.022;exitPerimeter=0;fontStyle=0" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -64,10 +64,16 @@
             <mxPoint x="432" y="559" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-1032" value="" style="endArrow=classic;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="431" y="607" as="sourcePoint" />
+            <mxPoint x="431" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1033" value="" style="endArrow=classic;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="429" y="705" as="sourcePoint" />
-            <mxPoint x="429" y="751" as="targetPoint" />
+            <mxPoint x="422" y="770" as="sourcePoint" />
+            <mxPoint x="422" y="816" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Is9HT5RNKo0W-x6g_QNv-1" value="识别变更题目集合&lt;div&gt;（新增、修改、删除）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" vertex="1" parent="1">
