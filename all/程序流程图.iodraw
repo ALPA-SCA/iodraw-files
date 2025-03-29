@@ -82,8 +82,8 @@
         <mxCell id="Is9HT5RNKo0W-x6g_QNv-6" value="触发全量重跑及日志记录&lt;div&gt;（修正误差）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="560" y="820" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Is9HT5RNKo0W-x6g_QNv-11" value="&lt;span&gt;开始&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="373" y="42" width="129" height="45" as="geometry" />
+        <mxCell id="Is9HT5RNKo0W-x6g_QNv-11" value="&lt;span&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="363" y="910" width="129" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
