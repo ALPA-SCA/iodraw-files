@@ -19,8 +19,8 @@
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1012" value="增量式得分计算&lt;div&gt;ΔS = Σ新增 + Σ修改 - Σ删除&lt;/div&gt;&lt;div&gt;S_new = S_old + ΔS&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="290" y="463" width="270" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-1013" value="发送数据信息" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="354" y="559" width="153" height="48" as="geometry" />
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-1013" value="分数归一化处理模块&lt;div&gt;①判断任务类型&lt;/div&gt;&lt;div&gt;②采用公式归一化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="354" y="559" width="176" height="71" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1014" value="发送完毕？" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="338" y="645" width="181" height="60" as="geometry" />
