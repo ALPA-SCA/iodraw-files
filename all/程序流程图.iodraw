@@ -10,8 +10,8 @@
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1008" value="题库数据版本管理&lt;div&gt;（分配唯一标识符、版本号）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="300" y="107" width="228" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-1009" value="设定账号和密码" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="352" y="184" width="153" height="48" as="geometry" />
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-1009" value="题库变化检测&lt;div&gt;（对比新旧版本信息）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="310" y="184" width="195" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1010" value="发起数据业务的拨号&lt;div&gt;链接，建立ppp链接&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="354" y="268" width="153" height="56" as="geometry" />
