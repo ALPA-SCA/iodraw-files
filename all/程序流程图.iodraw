@@ -13,10 +13,15 @@
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1009" value="中间结果缓存与映射构建" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="310" y="184" width="195" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-1010" value="识别变更题目集合&lt;div&gt;（新增、修改、删除）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-1010" value="题库变化检测&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（对比新旧版本信息）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="310" y="268" width="197" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-1012" value="与服务器ip地址以及端口号进行tcp连接" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="Is9HT5RNKo0W-x6g_QNv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HZyqP8lNtJwYMgKbey4X-1012">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="491" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-1012" value="增量式得分计算&lt;div&gt;ΔS = Σ新增 + Σ修改 - Σ删除&lt;/div&gt;&lt;div&gt;S_new = S_old + ΔS&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="352" y="463" width="153" height="56" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1013" value="发送数据信息" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
