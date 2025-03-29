@@ -76,16 +76,6 @@
             <mxPoint x="429" y="751" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-1039" value="" style="endArrow=classic;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontColor=none;align=center;exitX=0.014;exitY=0.472;exitPerimeter=0;entryX=0.008;entryY=0.458;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fontStyle=0" parent="1" target="HZyqP8lNtJwYMgKbey4X-1008" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="341.534" y="387.31999999999994" as="sourcePoint" />
-            <mxPoint x="340" y="291" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="250" y="387" />
-              <mxPoint x="250" y="129" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1040" value="" style="endArrow=classic;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontColor=none;align=center;exitX=0.015;exitY=0.477;exitPerimeter=0;entryX=0.011;entryY=0.53;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fontStyle=0" parent="1" source="HZyqP8lNtJwYMgKbey4X-1014" target="HZyqP8lNtJwYMgKbey4X-1013" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="299" y="537" as="sourcePoint" />
@@ -96,6 +86,9 @@
               <mxPoint x="295" y="585" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Is9HT5RNKo0W-x6g_QNv-1" value="识别变更题目集合&lt;div&gt;（新增、修改、删除）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="315" y="360" width="197" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
